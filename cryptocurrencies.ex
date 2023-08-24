@@ -1,10 +1,10 @@
-defmodule Febrd.Vantagex.Cryptocurrencies do
+defmodule Febrd.Cryptocurrencies do
 
    @moduledoc """
     Contains functions related to the Cryptocurrencies functions from Alpha Vantage
     """
 
-    import Febrd.Vantagex.Helper
+    import Febrd.Helper
 
 
 
