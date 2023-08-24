@@ -1,4 +1,4 @@
-defmodule FEbrd.Vantagex.Config do
+defmodule Febrd.Vantagex.Config do
 
 
   def api_url, do: "https://www.alphavantage.co/query"
