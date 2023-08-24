@@ -1,11 +1,11 @@
-defmodule Febrd.Vantagex.TechnicalIndicators do
+defmodule Febrd.TechnicalIndicators do
 
 
    @moduledoc """
     Contains functions related to the technical indicator functions from Alpha Vantage
     """
 
-    import Febrd.Vantagex.Helper
+    import Febrd.Helper
 
     @doc """
     Uses Alpha Vantage's SMA function.
