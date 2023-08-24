@@ -1,4 +1,4 @@
-defmodule Febrd.Vantagex.Helper do
+defmodule Febrd.Helper do
 
 
     @moduledoc false
