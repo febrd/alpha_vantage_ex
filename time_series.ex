@@ -1,11 +1,11 @@
-defmodule Febrd.Vantagex.TimeSeries do
+defmodule Febrd.TimeSeries do
 
 
     @moduledoc """
     Contains functions related to the Timeseries functions of Alpha Vantage's API.
     """
 
-    import Febrd.Vantagex.Helper
+    import Febrd.Helper
 
     @module_id "TIME_SERIES"
 
