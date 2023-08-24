@@ -1,4 +1,4 @@
-defmodule Febrd.Vantagex.Forex do
+defmodule Febrd.Forex do
 
 
 
@@ -6,7 +6,7 @@ defmodule Febrd.Vantagex.Forex do
     Contains functions related to the Forex functions from Alpha Vantage
     """
 
-    import Febrd.Vantagex.Helper
+    import Febrd.Helper
 
     @module_id "FX"
 
